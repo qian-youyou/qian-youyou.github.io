@@ -3884,8 +3884,8 @@
       </categories>
       <tags>
         <tag>编译原理</tag>
-        <tag>语法分析</tag>
         <tag>词法分析</tag>
+        <tag>语法分析</tag>
       </tags>
   </entry>
   <entry>
@@ -5970,12 +5970,12 @@
         <category>数据结构</category>
       </categories>
       <tags>
-        <tag>字符串</tag>
         <tag>C/C++</tag>
+        <tag>字符串</tag>
         <tag>算法</tag>
         <tag>数据结构</tag>
-        <tag>树</tag>
         <tag>链表</tag>
+        <tag>树</tag>
         <tag>剑指Offer</tag>
       </tags>
   </entry>
@@ -9362,8 +9362,8 @@
         <category>算法</category>
       </categories>
       <tags>
-        <tag>二分图</tag>
         <tag>匹配</tag>
+        <tag>二分图</tag>
         <tag>网络流</tag>
         <tag>最大流</tag>
         <tag>最小费用最大流</tag>
@@ -9544,8 +9544,8 @@
       <tags>
         <tag>算法</tag>
         <tag>网络流</tag>
-        <tag>预流推进</tag>
         <tag>最大流</tag>
+        <tag>预流推进</tag>
         <tag>最小割</tag>
       </tags>
   </entry>
@@ -9568,10 +9568,10 @@
         <category>算法</category>
       </categories>
       <tags>
-        <tag>KM算法</tag>
-        <tag>二分图</tag>
         <tag>匹配</tag>
+        <tag>二分图</tag>
         <tag>匈牙利算法</tag>
+        <tag>KM算法</tag>
         <tag>网络流</tag>
         <tag>最大流</tag>
       </tags>
@@ -12419,10 +12419,10 @@
       </categories>
       <tags>
         <tag>算法</tag>
-        <tag>KM算法</tag>
-        <tag>二分图</tag>
-        <tag>图论</tag>
         <tag>匹配</tag>
+        <tag>图论</tag>
+        <tag>二分图</tag>
+        <tag>KM算法</tag>
       </tags>
   </entry>
   <entry>
@@ -12478,9 +12478,9 @@
       </categories>
       <tags>
         <tag>算法</tag>
-        <tag>二分图</tag>
-        <tag>图论</tag>
         <tag>匹配</tag>
+        <tag>图论</tag>
+        <tag>二分图</tag>
         <tag>匈牙利算法</tag>
       </tags>
   </entry>
@@ -13968,9 +13968,9 @@ protected:用该关键字修饰的成员表示保护成员，保护成员在类�
         <category>C/C++</category>
       </categories>
       <tags>
-        <tag>字符串</tag>
         <tag>C/C++</tag>
         <tag>STL</tag>
+        <tag>字符串</tag>
         <tag>字符串流</tag>
       </tags>
   </entry>
@@ -14016,8 +14016,8 @@ protected:用该关键字修饰的成员表示保护成员，保护成员在类�
         <category>正则表达式</category>
       </categories>
       <tags>
-        <tag>正则表达式</tag>
         <tag>字符串</tag>
+        <tag>正则表达式</tag>
       </tags>
   </entry>
   <entry>
