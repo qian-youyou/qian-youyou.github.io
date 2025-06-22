@@ -218,8 +218,8 @@
         <tag>数据结构</tag>
         <tag>博弈论</tag>
         <tag>图论</tag>
-        <tag>计算几何</tag>
         <tag>数论</tag>
+        <tag>计算几何</tag>
         <tag>动态规划</tag>
       </tags>
   </entry>
@@ -4325,8 +4325,8 @@
         <category>数据结构</category>
       </categories>
       <tags>
-        <tag>C/C++</tag>
         <tag>字符串</tag>
+        <tag>C/C++</tag>
         <tag>算法</tag>
         <tag>数据结构</tag>
         <tag>链表</tag>
@@ -7655,8 +7655,8 @@
       <tags>
         <tag>算法</tag>
         <tag>网络流</tag>
-        <tag>预流推进</tag>
         <tag>最大流</tag>
+        <tag>预流推进</tag>
         <tag>最小割</tag>
       </tags>
   </entry>
@@ -8641,8 +8641,8 @@
         <category>C/C++</category>
       </categories>
       <tags>
-        <tag>STL</tag>
         <tag>算法</tag>
+        <tag>STL</tag>
       </tags>
   </entry>
   <entry>
@@ -8743,8 +8743,8 @@
         <category>算法</category>
       </categories>
       <tags>
-        <tag>STL</tag>
         <tag>算法</tag>
+        <tag>STL</tag>
       </tags>
   </entry>
   <entry>
@@ -9928,8 +9928,8 @@
         <category>算法</category>
       </categories>
       <tags>
-        <tag>ACM/ICPC</tag>
         <tag>并查集</tag>
+        <tag>ACM/ICPC</tag>
       </tags>
   </entry>
   <entry>
@@ -11967,8 +11967,8 @@
       </categories>
       <tags>
         <tag>C/C++</tag>
-        <tag>STL</tag>
         <tag>算法</tag>
+        <tag>STL</tag>
         <tag>vector</tag>
         <tag>pat天梯赛</tag>
       </tags>
@@ -12079,9 +12079,9 @@ protected:用该关键字修饰的成员表示保护成员，保护成员在类�
         <category>C/C++</category>
       </categories>
       <tags>
+        <tag>字符串</tag>
         <tag>C/C++</tag>
         <tag>STL</tag>
-        <tag>字符串</tag>
         <tag>字符串流</tag>
       </tags>
   </entry>
@@ -12127,8 +12127,8 @@ protected:用该关键字修饰的成员表示保护成员，保护成员在类�
         <category>正则表达式</category>
       </categories>
       <tags>
-        <tag>字符串</tag>
         <tag>正则表达式</tag>
+        <tag>字符串</tag>
       </tags>
   </entry>
   <entry>
